@@ -8,7 +8,9 @@ download opencv-python:https://pypi.org/project/opencv-python/
 
 _________________________________________________________________________
 Finaly,
+
 run the code on your terminal:
+
 python object_detection.py
 
 Done.
